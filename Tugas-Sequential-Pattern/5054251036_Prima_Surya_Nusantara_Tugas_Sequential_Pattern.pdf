@@ -1,0 +1,1823 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
+>>
+endobj
+2 0 obj
+<<
+/Count 3
+/Kids [ 3 0 R 8 0 R 10 0 R ]
+/Type /Pages
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+4 0 obj
+<<
+/Length 6235
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0.501961 0.501961 0.501961 rg
+BT
+1 0 0 1 50 25 Tm
+T*
+ET
+BT
+1 0 0 1 540.8276 25 Tm
+(1) Tj
+T*
+ET
+q
+1 0 0 1 56 768.8898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 6 Tm
+/F2 21 Tf
+27 TL
+67.7473 0 Td
+(Analisis Pola Pembelian Berurutan) Tj
+T*
+-67.7473 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 56 738.8898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 14 Tf
+18 TL
+(Laporan Praktikum 5 Data Mining) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 56 706.8898 cm
+q
+BT
+1 0 0 1 0 16.5 Tm
+13 TL
+/F1 9.5 Tf
+0 0 0 rg
+(NRP\072 5054251036 \174 Nama\072 Prima Surya Nusantara) Tj
+T*
+(Dataset\072 Online Retail \174 Algoritma\072 GSP terbatas dua kejadian) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 56 676.8898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 14 Tf
+18 TL
+(Tujuan dan ringkasan hasil) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 56 605.8898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 55.5 Tm
+/F1 9.5 Tf
+13 TL
+-0.061361 Tw
+(Analisis menemukan pola produk yang dibeli pada transaksi terdahulu dan kemudian dibeli pada transaksi lain oleh) Tj
+T*
+0 Tw
+0.949399 Tw
+(pelanggan yang sama\056 Dari 541\054909 baris awal\054 diperoleh 397\054924 baris bersih dan 4\054339 sequence pelanggan\056) Tj
+T*
+0 Tw
+2.163161 Tw
+(Pada minimum support 1\045 \050sekurangnya 44 pelanggan\051\054 ditemukan 16\054215 pola temporal dua produk\056 Hasil) Tj
+T*
+0 Tw
+3.974909 Tw
+(menggambarkan perilaku historis dan dapat menjadi dasar pengujian rekomendasi pascapembelian serta) Tj
+T*
+0 Tw
+(pengingat pembelian ulang\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 56 575.8898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 14 Tf
+18 TL
+(Eksplorasi data) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 56 530.8898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 29.5 Tm
+/F1 9.5 Tf
+13 TL
+0.013969 Tw
+(Data asli memiliki 541\056909 baris dan 8 kolom\072 InvoiceNo\054 StockCode\054 Description\054 Quantity\054 InvoiceDate\054 UnitPrice\054) Tj
+T*
+0 Tw
+-0.123409 Tw
+(CustomerID\054 dan Country\056 Periode data bersih adalah 2010\05512\05501 08\07226\07200 sampai 2011\05512\05509 12\07250\07200\056 Terdapat) Tj
+T*
+0 Tw
+(3\054665 kode produk setelah pembersihan\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 56 454.8898 cm
+q
+0.905882 0.929412 0.956863 rg
+n
+0 69 495 -23 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(Kolom) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 291 51 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(Jumlah nilai kosong) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 28 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(Description) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 291 28 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(1454) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(CustomerID) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 291 5 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(135080) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.501961 0.501961 0.501961 RG
+0.5 w
+n
+0 46 m
+495 46 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 56 444.8898 cm
+Q
+q
+1 0 0 1 56 414.8898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 14 Tf
+18 TL
+(Pembersihan data) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 56 369.8898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 29.5 Tm
+/F1 9.5 Tf
+13 TL
+0.945699 Tw
+(Baris dengan deskripsi kosong\054 invoice pembatalan berawalan C\054 Quantity tidak positif\054 dan CustomerID kosong) Tj
+T*
+0 Tw
+0.540799 Tw
+(dihapus secara berurutan\056 UnitPrice tidak difilter karena analisis memakai keberadaan produk\056 Jumlah pelanggan) Tj
+T*
+0 Tw
+(mengabaikan ID kosong\054 sedangkan jumlah invoice memakai nilai unik InvoiceNo\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 56 224.8898 cm
+q
+0.905882 0.929412 0.956863 rg
+n
+0 138 495 -23 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 120 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(Tahap) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 171 120 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(Dihapus) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 241 120 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(Baris) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 331 120 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(Invoice) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 416 120 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(Pelanggan) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 97 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(Sebelum) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 171 97 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(0) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 241 97 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(541909) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 331 97 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(25900) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 416 97 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(4372) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 74 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(Description terisi) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 171 74 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(1454) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 241 74 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(540455) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 331 74 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(24446) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 416 74 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(4372) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(Bukan pembatalan) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 171 51 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(9288) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 241 51 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(531167) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 331 51 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(20610) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 416 51 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(4339) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 28 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(Quantity positif) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 171 28 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(474) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 241 28 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(530693) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 331 28 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(20136) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 416 28 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(4339) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(CustomerID terisi) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 171 5 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(132769) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 241 5 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(397924) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 331 5 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(18536) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 416 5 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(4339) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.501961 0.501961 0.501961 RG
+0.5 w
+n
+0 115 m
+495 115 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 56 214.8898 cm
+Q
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Contents 9 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Length 5457
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0.501961 0.501961 0.501961 rg
+BT
+1 0 0 1 50 25 Tm
+T*
+ET
+BT
+1 0 0 1 540.8276 25 Tm
+(2) Tj
+T*
+ET
+q
+1 0 0 1 56 777.8898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 14 Tf
+18 TL
+(Pembentukan sequence dan definisi pola) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 56 706.8898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 55.5 Tm
+/F1 9.5 Tf
+13 TL
+1.959276 Tw
+(Item unik dalam satu invoice dihimpun sebagai satu itemset\054 menggunakan StockCode sebagai identitas dan) Tj
+T*
+0 Tw
+1.067738 Tw
+(deskripsi paling umum sebagai label\056 Invoice diurutkan per CustomerID dan InvoiceDate\056 Sebanyak 122 invoice) Tj
+T*
+0 Tw
+0.211276 Tw
+(tambahan pada timestamp pelanggan yang sama digabung\054 sehingga tidak muncul urutan waktu buatan\056 Hasilnya) Tj
+T*
+0 Tw
+0.902584 Tw
+(18\054414 kejadian waktu unik\056 Sebanyak 2\054841 pelanggan memiliki minimal dua kejadian\073 semua 4\054339 pelanggan) Tj
+T*
+0 Tw
+(tetap menjadi penyebut support\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 56 660.8898 cm
+q
+BT
+1 0 0 1 0 29.5 Tm
+1.391818 Tw
+13 TL
+/F1 9.5 Tf
+0 0 0 rg
+(Pola \074) Tj
+(\173A\175\054 \173B\175) Tj
+(\076 berarti pelanggan membeli A pada suatu waktu dan B pada waktu sesudahnya\056 Transaksi lain) Tj
+T*
+0 Tw
+0.144557 Tw
+(boleh berada di antaranya\056 Dua produk pada satu invoice saja tidak memenuhi pola ini\056 A dan B boleh sama untuk) Tj
+T*
+0 Tw
+(menangkap pembelian ulang\056 Tidak ada batas maksimum jeda waktu\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 56 630.8898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 14 Tf
+18 TL
+(Penerapan GSP) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 56 572.8898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 42.5 Tm
+/F1 9.5 Tf
+13 TL
+0.184549 Tw
+(Pencarian level\055wise dimulai dengan 1\054738 singleton frequent\056 Kandidat pasangan dibentuk dari seluruh pasangan) Tj
+T*
+0 Tw
+2.554736 Tw
+(singleton\054 sebanyak 3\054020\054644 kandidat\056 Prinsip Apriori memastikan pola pasangan frequent hanya mungkin) Tj
+T*
+0 Tw
+0.112173 Tw
+(tersusun dari singleton frequent\056 Setiap kandidat dihitung paling banyak satu kali per pelanggan\054 lalu disaring pada) Tj
+T*
+0 Tw
+(ambang ceil\0500\05401 x 4339\051 \075 44\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 56 513.8898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 42.5 Tm
+/F1 9.5 Tf
+13 TL
+0.120185 Tw
+(Ruang pencarian dibatasi dua kejadian dengan satu produk pada masing\055masing kejadian\056 Pola lebih panjang dan) Tj
+T*
+0 Tw
+0.541584 Tw
+(pola multi\055produk dalam satu itemset tidak dieksplorasi\056 Batas ini mempertahankan tujuan analisis transisi produk) Tj
+T*
+0 Tw
+-0.110993 Tw
+(serta mengendalikan banyaknya kandidat\073 hasil bukan daftar lengkap seluruh pola itemset yang mungkin\056 Minimum) Tj
+T*
+0 Tw
+(support awal 1\045 dipertahankan\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 56 467.8898 cm
+q
+BT
+1 0 0 1 0 29.5 Tm
+13 TL
+/F1 9.5 Tf
+0 0 0 rg
+(Support\050A lalu B\051 \075 jumlah pelanggan dengan A lalu B \057 seluruh pelanggan bersih\056) Tj
+T*
+(Confidence\050A lalu B\051 \075 jumlah pelanggan dengan A lalu B \057 pelanggan yang membeli A\056) Tj
+T*
+(Confidence tidak didefinisikan untuk singleton tanpa antecedent\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 56 437.8898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 14 Tf
+18 TL
+(Sensitivitas minimum support) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 56 316.8898 cm
+q
+0.905882 0.929412 0.956863 rg
+n
+0 115 495 -23 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 97 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(Minimum support) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 176 97 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(Ambang pelanggan) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 336 97 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(Pola temporal) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 74 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(1\045) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 176 74 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(44) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 336 74 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(16215) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(2\045) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 176 51 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(87) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 336 51 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(1553) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 28 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(3\045) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 176 28 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(131) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 336 28 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(307) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(5\045) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 176 5 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(217) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 336 5 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(11) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.501961 0.501961 0.501961 RG
+0.5 w
+n
+0 92 m
+495 92 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 56 306.8898 cm
+Q
+q
+1 0 0 1 56 267.8898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 29.5 Tm
+/F1 9.5 Tf
+13 TL
+1.228507 Tw
+(Tabel menunjukkan dampak menaikkan ambang pada ruang pola yang sama\056 Ambang lebih tinggi menyisakan) Tj
+T*
+0 Tw
+1.894649 Tw
+(pola yang lebih umum\073 ambang 1\045 memberi cakupan lebih luas untuk eksplorasi tanpa mengubah penyebut) Tj
+T*
+0 Tw
+(pelanggan\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 56 221.8898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 29.5 Tm
+/F1 9.5 Tf
+13 TL
+1.556622 Tw
+(Referensi\072 instruksi Tugas Praktikum 5 Sequential Pattern Analysis dan file Online Retail\056xlsx yang disertakan\056) Tj
+T*
+0 Tw
+28.53408 Tw
+(Metadata dataset\072 UCI Machine Learning Repository\054 Online Retail\054) Tj
+T*
+0 Tw
+(https\072\057\057archive\056ics\056uci\056edu\057dataset\057352\057online\053retail\056) Tj
+T*
+ET
+Q
+Q
+
+endstream
+endobj
+10 0 obj
+<<
+/Contents 11 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+11 0 obj
+<<
+/Length 6566
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0.501961 0.501961 0.501961 rg
+BT
+1 0 0 1 50 25 Tm
+T*
+ET
+BT
+1 0 0 1 540.8276 25 Tm
+(3) Tj
+T*
+ET
+q
+1 0 0 1 56 777.8898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 14 Tf
+18 TL
+(Tiga pola dengan support tertinggi) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 56 745.8898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 16.5 Tm
+/F1 9.5 Tf
+13 TL
+1.100173 Tw
+(Peringkat memakai jumlah pelanggan pendukung\056 Jika seri\054 kode A lalu kode B diurutkan menaik\056 Seluruh pola) Tj
+T*
+0 Tw
+(tersedia pada keluaran notebook dan berkas CSV\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 56 646.8898 cm
+q
+0.905882 0.929412 0.956863 rg
+n
+0 92 495 -23 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 74 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(Pola kode produk) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 201 74 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(Pelanggan) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 291 74 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(Support) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 391 74 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(Confidence) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 51 cm
+q
+BT
+1 0 0 1 0 3.5 Tm
+13 TL
+/F1 9.5 Tf
+0 0 0 rg
+(85123A \055) Tj
+(\076 85123A) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 201 51 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(407) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 291 51 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(9\05638\045) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 391 51 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(47\05655\045) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 28 cm
+q
+BT
+1 0 0 1 0 3.5 Tm
+13 TL
+/F1 9.5 Tf
+0 0 0 rg
+(22423 \055) Tj
+(\076 22423) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 201 28 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(330) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 291 28 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(7\05661\045) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 391 28 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(37\05646\045) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+BT
+1 0 0 1 0 3.5 Tm
+13 TL
+/F1 9.5 Tf
+0 0 0 rg
+(85099B \055) Tj
+(\076 85099B) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 201 5 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(312) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 291 5 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(7\05619\045) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 391 5 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(49\05613\045) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.501961 0.501961 0.501961 RG
+0.5 w
+n
+0 69 m
+495 69 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 56 636.8898 cm
+Q
+q
+1 0 0 1 56 606.8898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 14 Tf
+18 TL
+(Pola 1) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 56 561.8898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 29.5 Tm
+/F1 9.5 Tf
+13 TL
+1.514054 Tw
+(WHITE HANGING HEART T\055LIGHT HOLDER \05085123A\051 menuju WHITE HANGING HEART T\055LIGHT HOLDER) Tj
+T*
+0 Tw
+1.135006 Tw
+(\05085123A\051\056 Sebanyak 407 dari 4339 pelanggan memiliki urutan ini\056 Dari 856 pelanggan yang membeli produk A\054) Tj
+T*
+0 Tw
+(47\05655\045 juga membeli B pada transaksi yang lebih kemudian\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 56 528.8898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 16.5 Tm
+/F1 9.5 Tf
+13 TL
+1.327364 Tw
+(Pola ini menunjukkan pembelian ulang produk yang sama\056 Pengingat restock dapat diuji pada pelanggan yang) Tj
+T*
+0 Tw
+(pernah membelinya\073 waktu pengingat perlu dianalisis terpisah\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 56 498.8898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 14 Tf
+18 TL
+(Pola 2) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 56 453.8898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 29.5 Tm
+/F1 9.5 Tf
+13 TL
+0.909161 Tw
+(REGENCY CAKESTAND 3 TIER \05022423\051 menuju REGENCY CAKESTAND 3 TIER \05022423\051\056 Sebanyak 330 dari) Tj
+T*
+0 Tw
+1.031412 Tw
+(4339 pelanggan memiliki urutan ini\056 Dari 881 pelanggan yang membeli produk A\054 37\05646\045 juga membeli B pada) Tj
+T*
+0 Tw
+(transaksi yang lebih kemudian\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 56 420.8898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 16.5 Tm
+/F1 9.5 Tf
+13 TL
+1.327364 Tw
+(Pola ini menunjukkan pembelian ulang produk yang sama\056 Pengingat restock dapat diuji pada pelanggan yang) Tj
+T*
+0 Tw
+(pernah membelinya\073 waktu pengingat perlu dianalisis terpisah\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 56 390.8898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 14 Tf
+18 TL
+(Pola 3) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 56 345.8898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 29.5 Tm
+/F1 9.5 Tf
+13 TL
+1.381549 Tw
+(JUMBO BAG RED RETROSPOT \05085099B\051 menuju JUMBO BAG RED RETROSPOT \05085099B\051\056 Sebanyak 312) Tj
+T*
+0 Tw
+-0.116171 Tw
+(dari 4339 pelanggan memiliki urutan ini\056 Dari 635 pelanggan yang membeli produk A\054 49\05613\045 juga membeli B pada) Tj
+T*
+0 Tw
+(transaksi yang lebih kemudian\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 56 312.8898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 16.5 Tm
+/F1 9.5 Tf
+13 TL
+1.327364 Tw
+(Pola ini menunjukkan pembelian ulang produk yang sama\056 Pengingat restock dapat diuji pada pelanggan yang) Tj
+T*
+0 Tw
+(pernah membelinya\073 waktu pengingat perlu dianalisis terpisah\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 56 282.8898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 14 Tf
+18 TL
+(Evaluasi dan keterbatasan) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 56 224.8898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 42.5 Tm
+/F1 9.5 Tf
+13 TL
+3.225781 Tw
+(Tiga hitungan dukungan teratas telah diverifikasi dengan pemindaian subsequence langsung\054 terpisah dari) Tj
+T*
+0 Tw
+2.917383 Tw
+(perhitungan matriks posisi pertama dan terakhir\056 Uji contoh memastikan produk bersamaan tidak dianggap) Tj
+T*
+0 Tw
+2.386174 Tw
+(berurutan\054 urutan terbalik ditolak\054 dan pembelian ulang pada transaksi berbeda diterima\056 Seluruh confidence) Tj
+T*
+0 Tw
+(berada pada rentang 0 sampai 1\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 56 165.8898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 42.5 Tm
+/F1 9.5 Tf
+13 TL
+0.008899 Tw
+(Confidence bukan jaminan pembelian pada invoice tepat berikutnya dan tidak membuktikan efek kausal\056 Tidak ada) Tj
+T*
+0 Tw
+-0.073724 Tw
+(evaluasi holdout temporal\056 Pelanggan tanpa ID dikeluarkan\073 pelanggan satu kejadian serta pelanggan yang muncul) Tj
+T*
+0 Tw
+1.153549 Tw
+(dekat akhir periode dapat menurunkan support dan confidence karena kesempatan observasinya terbatas\056 Item) Tj
+T*
+0 Tw
+(administratif tetap mungkin tercatat sebagai StockCode\056 Analisis tidak mengukur pendapatan atau profitabilitas\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 56 135.8898 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 14 Tf
+18 TL
+(Kesimpulan) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 56 77.88976 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 42.5 Tm
+/F1 9.5 Tf
+13 TL
+2.690045 Tw
+(Data transaksi dapat diubah menjadi sequence itemset yang menjaga waktu pembelian\056 GSP terbatas dua) Tj
+T*
+0 Tw
+0.196185 Tw
+(kejadian menghasilkan pola historis dengan support dan confidence yang terukur per pelanggan\056 Tiga pola teratas) Tj
+T*
+0 Tw
+1.107199 Tw
+(memberi arah untuk pengujian rekomendasi dan pembelian ulang\056 Validasi periode berikutnya dan analisis jeda) Tj
+T*
+0 Tw
+(pembelian diperlukan sebelum penerapan bisnis\056) Tj
+T*
+ET
+Q
+Q
+
+endstream
+endobj
+12 0 obj
+<<
+/Author (\050anonymous\051)
+/CreationDate (D\07220261102211312\05307\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220261102211312\05307\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (\050unspecified\051)
+/Title (\050anonymous\051)
+/Trapped /False
+>>
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000155 00000 n 
+0000000354 00000 n 
+0000006641 00000 n 
+0000006682 00000 n 
+0000006789 00000 n 
+0000006901 00000 n 
+0000007100 00000 n 
+0000012609 00000 n 
+0000012810 00000 n 
+0000019429 00000 n 
+trailer
+<<
+/Size 13
+/Root 1 0 R
+/Info 12 0 R
+/ID [ (\015I9\135\073\025\357\275o\057\330\134\057\032l\021) (\015I9\135\073\025\357\275o\057\330\134\057\032l\021) ]
+>>
+startxref
+19754
+%%EOF

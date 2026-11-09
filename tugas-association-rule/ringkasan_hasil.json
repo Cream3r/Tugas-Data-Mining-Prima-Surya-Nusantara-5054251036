@@ -1,0 +1,80 @@
+{
+  "rows": 541909,
+  "columns": 8,
+  "invoices_before": 25900,
+  "clean_rows": 530693,
+  "transactions": 20136,
+  "products": 4065,
+  "countries": 38,
+  "missing": {
+    "InvoiceNo": 0,
+    "StockCode": 0,
+    "Description": 1454,
+    "Quantity": 0,
+    "InvoiceDate": 0,
+    "UnitPrice": 0,
+    "CustomerID": 135080,
+    "Country": 0
+  },
+  "date_start": "2010-12-01 08:26:00",
+  "date_end": "2011-12-09 12:50:00",
+  "audit": [
+    {
+      "Tahap": "Data awal",
+      "Baris": 541909,
+      "Invoice": 25900,
+      "Dihapus": 0
+    },
+    {
+      "Tahap": "Description kosong",
+      "Baris": 540455,
+      "Invoice": 24446,
+      "Dihapus": 1454
+    },
+    {
+      "Tahap": "Invoice pembatalan C",
+      "Baris": 531167,
+      "Invoice": 20610,
+      "Dihapus": 9288
+    },
+    {
+      "Tahap": "Quantity <= 0",
+      "Baris": 530693,
+      "Invoice": 20136,
+      "Dihapus": 474
+    }
+  ],
+  "frequent": 1853,
+  "rules": 841,
+  "interpretations": [
+    "Aturan 1: HERB MARKER PARSLEY + HERB MARKER ROSEMARY -> HERB MARKER THYME. Keduanya muncul pada 203 invoice (1.01% dari seluruh invoice). Di antara invoice yang memuat antecedent, 94.42% juga memuat consequent. Frekuensi consequent pada kelompok tersebut 80.22 kali frekuensinya pada seluruh invoice (baseline 1.18%). Kombinasi ini dapat diuji untuk rekomendasi produk pendamping atau penempatan produk berdekatan.",
+    "Aturan 2: HERB MARKER THYME -> HERB MARKER PARSLEY + HERB MARKER ROSEMARY. Keduanya muncul pada 203 invoice (1.01% dari seluruh invoice). Di antara invoice yang memuat antecedent, 85.65% juga memuat consequent. Frekuensi consequent pada kelompok tersebut 80.22 kali frekuensinya pada seluruh invoice (baseline 1.07%). Kombinasi ini dapat diuji untuk rekomendasi produk pendamping atau penempatan produk berdekatan.",
+    "Aturan 3: HERB MARKER ROSEMARY -> HERB MARKER PARSLEY + HERB MARKER THYME. Keduanya muncul pada 203 invoice (1.01% dari seluruh invoice). Di antara invoice yang memuat antecedent, 84.58% juga memuat consequent. Frekuensi consequent pada kelompok tersebut 79.96 kali frekuensinya pada seluruh invoice (baseline 1.06%). Kombinasi ini dapat diuji untuk rekomendasi produk pendamping atau penempatan produk berdekatan."
+  ],
+  "top": [
+    {
+      "A": "HERB MARKER PARSLEY + HERB MARKER ROSEMARY",
+      "B": "HERB MARKER THYME",
+      "support": 0.010081446166070719,
+      "confidence": 0.944186046511628,
+      "lift": 80.21995878716515,
+      "Invoice bersama": 203
+    },
+    {
+      "A": "HERB MARKER THYME",
+      "B": "HERB MARKER PARSLEY + HERB MARKER ROSEMARY",
+      "support": 0.010081446166070719,
+      "confidence": 0.8565400843881856,
+      "lift": 80.21995878716515,
+      "Invoice bersama": 203
+    },
+    {
+      "A": "HERB MARKER ROSEMARY",
+      "B": "HERB MARKER PARSLEY + HERB MARKER THYME",
+      "support": 0.010081446166070719,
+      "confidence": 0.8458333333333333,
+      "lift": 79.96103286384977,
+      "Invoice bersama": 203
+    }
+  ]
+}
